@@ -5,11 +5,11 @@ Here we will show the numerical simulation of the system, and a comparison with 
 The full-Hamiltonian in consideration to simulate is defined as
 
 $$
-\begin{equation}
+
 
 \hat H^{D}_{\texttt{JC}}\!=\!\frac{\hbar\omega_{c}}{2}(\hat{A}^{\dagger}\hat{A}+\hat{A} \hat{A}^{\dagger}) + \frac{\hbar\omega_a}{2}\hat{\sigma}_{z}\!-\mathrm{i}\frac{\hbar\Omega_{0}}{2}(\hat{A}\hat{\sigma}_{+}\!-\!\hat{A}^{\dagger} \hat{\sigma}_{-}),
 
-\end{equation}
+
 
 $$
 
@@ -30,5 +30,3 @@ Authors: L. Medina-Dozal, A.R. Urzúa , D. Aranda-Lozano, Carlos A.  Gonz ález-
 Code developer: A.R. Urzúa
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
