@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alejandro R."
+  given-names: "Urzúa"
+  orcid: "https://orcid.org/0000-0002-6255-5453"
+- family-names: "Luis"
+  given-names: "Medina-Dozal"
+  orcid: "https://orcid.org/0000-0002-4695-5190"
+- family-names: "Diego"
+  given-names: "Aranda-Lozano"
+- family-names: "Carlos A."
+  given-names: "González-Gutiérrez"
+  orcid: "https://orcid.org/0000-0002-1734-1405"
+- family-names: "José F."
+  given-names: "Récamier"
+  orcid: "https://orcid.org/0000-0002-5995-0380"
+- family-names: "Ricardo"
+  given-names: "Román-Ancheyta"
+  orcid: "https://orcid.org/0000-0001-6718-8587"
+title: "Spectral response of a nonlinear Jaynes-Cummings model"
+version: 0.0.1
+date-released: 2024-07-20
+url: "https://github.com/rurz/EW_DJC"
