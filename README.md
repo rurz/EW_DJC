@@ -4,14 +4,7 @@ Here we will show the numerical simulation of the system, and a comparison with 
 
 The full-Hamiltonian in consideration to simulate is defined as
 
-$$
-
-
-\hat H^{D}_{\texttt{JC}}\!=\!\frac{\hbar\omega_{c}}{2}(\hat{A}^{\dagger}\hat{A}+\hat{A} \hat{A}^{\dagger}) + \frac{\hbar\omega_a}{2}\hat{\sigma}_{z}\!-\mathrm{i}\frac{\hbar\Omega_{0}}{2}(\hat{A}\hat{\sigma}_{+}\!-\!\hat{A}^{\dagger} \hat{\sigma}_{-}),
-
-
-
-$$
+$$\hat{H}^{D}\_{\texttt{JC}} = \frac{\hbar\\omega\_{c}}{2}(\hat{A}^{\dagger}\hat{A} + \hat{A} \hat{A}^{\dagger}) + \frac{\hbar\\omega\_a}{2}\hat{\\sigma}\_{z} - \mathrm{i}\frac{\hbar\\Omega_{0}}{2}(\hat{A}\hat{\\sigma}\_{+} - \hat{A}^{\dagger} \hat{\\sigma}\_{-}),$$
 
 where $\hat{A} = \hat{a}f(\hat{n})$ the new _deformed_ annihilation operator, that uses the _deformation function_ $f^2(\hat{n})=1+\chi\hat{n}$, for some parameter $\chi$ that acts a deformation strength.
 
