@@ -1,10 +1,12 @@
 # Spectral response of a nonlinear Jaynes-Cummings model
 
-Here we will show the numerical simulation of the system, and a comparison with the analytical¹ expressions. If you want an interactive preview, launch the Binder server of the repository.
+Here we will show the numerical simulation of the system, and a comparison with the analytical¹ expressions. If you want an interactive preview, launch the Binder server of the repository, or even easily, open the notebook in Colab.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rurz/EW_DJC/HEAD?urlpath=lab)
 
 [![DOI](https://zenodo.org/badge/831245386.svg)](https://zenodo.org/doi/10.5281/zenodo.12788270)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TEWGxwjxsmrwazNw8ZPiYesyLudgiZKW?usp=sharing)
 
 The full-Hamiltonian in consideration to simulate is defined as
 
